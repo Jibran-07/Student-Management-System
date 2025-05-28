@@ -1,0 +1,1 @@
+This is a Student Management System developed using Java Swing for the graphical user interface and Microsoft SQL Server as the database. The application provides a comprehensive solution for managing students, instructors, courses, departments, semesters, batches, attendance, and grades, with an admin dashboard and user authentication features.
